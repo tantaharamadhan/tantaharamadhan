@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZtZmxqeDYyemk1dnliM2ttMGY5ZmZkcHFqaDJta3hiZnE1cTEyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTL02R1L7YCGUEunFy/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:tantaharamadhan?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
@@ -84,17 +78,14 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tantaharamadhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tantaharamadhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tantaharamadhan&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tantaharamadhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2" height="500" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tantaharamadhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tantaharamadhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tantaharamadhan&radius=16&theme=merko&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
