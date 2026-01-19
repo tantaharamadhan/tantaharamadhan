@@ -2,6 +2,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:tantaharamadhan?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
@@ -67,14 +75,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tantaharamadhan/tantaharamadhan/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
